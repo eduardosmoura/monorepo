@@ -1,2 +1,2 @@
 # monorepo
- Monorepo ReactJS, NodeJS & React Native with Yarn Workspaces
+ Monorepo structure with Node.js, ReactJS, Yarn Workspaces, TypeScript, ESLint, Jest and CI/CD
